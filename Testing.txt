@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Random test</title>
+</head>
+<body>
+<h1><B>Testing Websites</B></h1>
+<p>Im testing websites today :D</p>
+</body>
+</html>
